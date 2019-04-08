@@ -72,7 +72,7 @@ const IndexPage = ({
               Contact
             </Button>
           </Link>{" "}
-          <Link to="https://twitter.com/LifeWithACrazy1">
+          <a href="https://twitter.com/LifeWithACrazy1">
             <Button big>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
                 <g id="Logo_FIXED" data-name="Logo — FIXED">
@@ -84,7 +84,7 @@ const IndexPage = ({
               </svg>
               Twitter
             </Button>
-          </Link>
+          </a>
         </div>
       </Hero>
       <Content>
